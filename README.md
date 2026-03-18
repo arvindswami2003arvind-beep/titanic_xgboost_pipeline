@@ -31,3 +31,12 @@ To explore the code and run this pipeline on your own machine:
    ```bash
 [   git clone [https://github.com/arvindswami2003arvind-beep/](https://github.com/arvindswami2003arvind-beep/)[repository-name].git
 ](https://github.com/arvindswami2003arvind-beep/titanic_xgboost_pipeline.git)
+
+2. Install the required dependencies:
+
+Bash
+pip install -r requirements.txt
+Run the analysis script:
+
+Bash
+python [main_script_name].py
