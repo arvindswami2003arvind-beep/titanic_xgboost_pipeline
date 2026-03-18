@@ -29,4 +29,5 @@ To explore the code and run this pipeline on your own machine:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/arvindswami2003arvind-beep/](https://github.com/arvindswami2003arvind-beep/)[repository-name].git
+[   git clone [https://github.com/arvindswami2003arvind-beep/](https://github.com/arvindswami2003arvind-beep/)[repository-name].git
+](https://github.com/arvindswami2003arvind-beep/titanic_xgboost_pipeline.git)
